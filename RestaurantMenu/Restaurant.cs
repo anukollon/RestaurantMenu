@@ -50,6 +50,7 @@ namespace RestaurantMenu
             int choiceIdx;
             do
             {
+                Console.WriteLine("Select a choice from the list:");
                 Console.WriteLine("1 - View Menu");
                 Console.WriteLine("2 - Add Menu");
                 Console.WriteLine("3 - Remove Menu");
@@ -120,12 +121,22 @@ namespace RestaurantMenu
                 category = "Dessert";
             }
 
-            MenuItem newItem = new MenuItem(price, desc, category, DateTime.Today);
-            menu.addMenuItem(newItem);
-            menu.LastUpdated = DateTime.Now;
+            bool isPresentInList = menu.isItemPresentInList(desc);
+            if (isPresentInList)
+            {
+                Console.WriteLine("Sorry! Menu Item Exists in the Menu.\n");
+            }
+            else
+            {
+                MenuItem newItem = new MenuItem(price, desc, category, DateTime.Today);
+                menu.addMenuItem(newItem);
+                menu.LastUpdated = DateTime.Now;
 
-            Console.WriteLine("Updated Menu: ");
-            menu.printMenuItems(); //Print all the Menu Items
+                Console.WriteLine("Updated Menu: ");
+                menu.printMenuItems(); //Print all the Menu Items
+
+            }
+
         }
     }
 }

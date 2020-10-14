@@ -87,5 +87,17 @@ namespace RestaurantMenu
                 Console.WriteLine(item.MenuId +":"+ item.Description);
             } 
         }
+
+        public bool isItemPresentInList(string desc)
+        {
+            foreach (MenuItem item in this.listMenuItems)
+            {
+                if(item.Description == desc)
+                {
+                    return true;
+                }
+            }
+            return false;
+        }
     }
 }
