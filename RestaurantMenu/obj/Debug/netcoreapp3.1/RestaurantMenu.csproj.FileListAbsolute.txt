@@ -1,0 +1,13 @@
+C:\Users\BB\Desktop\New folder\LaunchCode\CSharp\Chapter4\RestaurantMenu\RestaurantMenu\bin\Debug\netcoreapp3.1\RestaurantMenu.exe
+C:\Users\BB\Desktop\New folder\LaunchCode\CSharp\Chapter4\RestaurantMenu\RestaurantMenu\bin\Debug\netcoreapp3.1\RestaurantMenu.deps.json
+C:\Users\BB\Desktop\New folder\LaunchCode\CSharp\Chapter4\RestaurantMenu\RestaurantMenu\bin\Debug\netcoreapp3.1\RestaurantMenu.runtimeconfig.json
+C:\Users\BB\Desktop\New folder\LaunchCode\CSharp\Chapter4\RestaurantMenu\RestaurantMenu\bin\Debug\netcoreapp3.1\RestaurantMenu.runtimeconfig.dev.json
+C:\Users\BB\Desktop\New folder\LaunchCode\CSharp\Chapter4\RestaurantMenu\RestaurantMenu\bin\Debug\netcoreapp3.1\RestaurantMenu.dll
+C:\Users\BB\Desktop\New folder\LaunchCode\CSharp\Chapter4\RestaurantMenu\RestaurantMenu\bin\Debug\netcoreapp3.1\RestaurantMenu.pdb
+C:\Users\BB\Desktop\New folder\LaunchCode\CSharp\Chapter4\RestaurantMenu\RestaurantMenu\obj\Debug\netcoreapp3.1\RestaurantMenu.csprojAssemblyReference.cache
+C:\Users\BB\Desktop\New folder\LaunchCode\CSharp\Chapter4\RestaurantMenu\RestaurantMenu\obj\Debug\netcoreapp3.1\RestaurantMenu.AssemblyInfoInputs.cache
+C:\Users\BB\Desktop\New folder\LaunchCode\CSharp\Chapter4\RestaurantMenu\RestaurantMenu\obj\Debug\netcoreapp3.1\RestaurantMenu.AssemblyInfo.cs
+C:\Users\BB\Desktop\New folder\LaunchCode\CSharp\Chapter4\RestaurantMenu\RestaurantMenu\obj\Debug\netcoreapp3.1\RestaurantMenu.csproj.CoreCompileInputs.cache
+C:\Users\BB\Desktop\New folder\LaunchCode\CSharp\Chapter4\RestaurantMenu\RestaurantMenu\obj\Debug\netcoreapp3.1\RestaurantMenu.dll
+C:\Users\BB\Desktop\New folder\LaunchCode\CSharp\Chapter4\RestaurantMenu\RestaurantMenu\obj\Debug\netcoreapp3.1\RestaurantMenu.pdb
+C:\Users\BB\Desktop\New folder\LaunchCode\CSharp\Chapter4\RestaurantMenu\RestaurantMenu\obj\Debug\netcoreapp3.1\RestaurantMenu.genruntimeconfig.cache
